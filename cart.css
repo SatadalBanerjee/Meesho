@@ -1,0 +1,39 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar{
+
+    width: 100%;
+    border: 1px solid rgb(233, 229, 229);
+    height: 80px;
+    
+}
+#navbar>div>img{
+
+   padding: 18px;
+   width: 150px;
+   
+}
+#bottom>img{
+
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+    
+}
+button{
+
+   display: block;
+   margin: auto;
+   margin-top: 60px;
+   padding:20px;
+   width: 170px;
+   border-radius: 5px;
+  border-color: ;
+  border: 1px solid rgb(244, 51, 151);
+  color: rgb(244, 51, 151);
+  cursor: pointer;
+}
